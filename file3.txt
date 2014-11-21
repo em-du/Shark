@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 zxcvrrr
+asdf
+=======
+zxcv
+>>>>>>> bd8c6e006631d41e7b7150587faea59d09ee62ac
